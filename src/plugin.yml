@@ -1,0 +1,23 @@
+name: CraftingPlugin
+version: 1.0
+api-version: 1.17
+main: de.craftingdani.craftingplugin.main.Main
+commands:
+   heal:
+   feed:
+   chatclear:
+   createworld:
+   listworlds:
+   deleteworld:
+   setspawn:
+   spawn:
+   randomitem:
+   randomnumber:
+   menu:
+   creload:
+   ban:
+   unban:
+   god:
+   pay:
+   tps:
+   setmoney:
